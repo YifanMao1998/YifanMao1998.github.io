@@ -39,7 +39,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **SPIC 2023** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596523001133) Optical flow-assisted multi-level fusion network for Light Field image angular reconstruction,  Deyang Liu, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yan Huang, Liqun Cao, Yuanzhi Wang, Yuming Fang${\dagger}$
 - **IJACSA 2023** [[PDF]](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=5&Code=IJACSA&SerialNo=111) Light Field Spatial Super-resolution via Multi-level
 Perception and View Reorganization,  <span style="color:PaleVioletRed;">Yifan Mao</span>, Zaidong Tong, Xin Zheng, Xiaofei Zhou, Youzhi Zhang, Deyang Liu${\dagger}$
-- **Sci. Rep 2022** [[PDF]](https://www.nature.com/articles/s41598-022-26887-4) Geometry-aware view reconstruction network for light field image compression,  Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang & Deyang Liu${\dagger}$
+- **Sci. Rep 2022** [[PDF]](https://www.nature.com/articles/s41598-022-26887-4) Geometry-aware view reconstruction network for light field image compression,  Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Deyang Liu${\dagger}$
 - 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
