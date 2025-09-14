@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# ☕️ About Me
 
 I am currently a second-year Ph.D. student at Shanghai University, Shanghai, China, supervised by [Prof. Ping An](https://scie-ie.shu.edu.cn/info/1078/1139.htm). Previously, I obtained my M.E. degree from Anqing Normal University, Anhui, China, under the guidance of [Prof. Deyang Liu](https://ldyorchid.github.io/liudeyang.github.io/). My research interests focus on low-level tasks related to light field images.
 
