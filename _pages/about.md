@@ -24,7 +24,8 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 One paper is accepted by TIP 2025.
+- *2025.09*: &nbsp;🎉 One paper is accepted by IEEE TIP 2025.
+- *2025.08*: &nbsp;🎉 One cooperated paper is accepted by IEEE ICUS 2025. Congrats to Shizheng!
 - *2025.05*: &nbsp;🎉 One cooperated paper is accepted by Opt. Lett 2025. Congrats to fengyin!
 
 # 📝 Publications 
@@ -32,6 +33,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 - **IEEE TIP 2025** Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields ,  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
 - **Opt. Lett 2025** [[PDF]](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-10-3473) Structure-preserving light field reconstruction via spatial and implicit angular cues, Fengyin Cao, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Ping An${\dagger} $, Chao Yang
+- **IEEE TCI 2025** [[PDF]](https://ieeexplore.ieee.org/document/10786285)Light Field Angular Super-Resolution Network Based on Convolutional Transformer and Deep Deblurring, Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span> , Yifan Zuo , Ping An , Yuming Fang${\dagger}$
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
