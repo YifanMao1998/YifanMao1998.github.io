@@ -32,6 +32,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 - **IEEE TIP 2025** Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields ,  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
+- **IEEE ICUS 2025**  Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration,  Yuan Shi, Shizheng Li$^{\*}$, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Feng Wu, Zeyu Xiao, Deyang Liu${\dagger}$
 - **Opt. Lett 2025** [[PDF]](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-10-3473) Structure-preserving light field reconstruction via spatial and implicit angular cues, Fengyin Cao, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Ping An${\dagger} $, Chao Yang
 - **IEEE TCI 2024** [[PDF]](https://ieeexplore.ieee.org/document/10786285)Light Field Angular Super-Resolution Network Based on Convolutional Transformer and Deep Deblurring, Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao</span>, Yifan Zuo, Ping An, Yuming Fang${\dagger}$
 - **PRCV 2024 Oral** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-8508-7_24) Multiview Light Field Angular Super-Resolution Based on View Alignment and Frequency Attention,  Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao</span>, Yifan Zuo, Ping An, Yuming Fang${\dagger}$
