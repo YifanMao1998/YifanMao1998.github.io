@@ -31,6 +31,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 - **IEEE TIP 2025** Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields ,  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
+- **Opt. Lett 2025** [[PDF]](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-10-3473) Structure-preserving light field reconstruction via spatial and implicit angular cues, Fengyin Cao, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Ping An${\dagger} $, Chao Yang
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
