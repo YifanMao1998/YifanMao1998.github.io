@@ -30,7 +30,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 # 📝 Publications 
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
-- Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields , **TIP 2025**  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
+- **IEEE TIP 2025** Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields ,  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
