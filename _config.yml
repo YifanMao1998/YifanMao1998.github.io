@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name: "Yifan Mao<br>(毛逸凡)"  # 用<br>强制换行
-  avatar           : "id.png"
+  avatar           : "id.jpg"
   bio              : "Shanghai University"
   location         : "Shanghai, China"
   employer         :
