@@ -48,7 +48,7 @@ Perception and View Reorganization,  <span style="color:PaleVioletRed;">Yifan Ma
 
 
 # 🧑‍🤝‍🧑 My Friends and Collaborators
-- <a href="https://ieeexplore.ieee.org/author/37088955165">Dr. Zeyu Xiao</a>@NUS,  <a href="https://yileichen96.github.io/">Dr. Yilei Chen</a>@UTS, <a href="https://scholar.google.co.jp/citations?hl=zh-CN&user=n_swONIAAAAJ&view_op=list_works">Dr. Yuankun Xu</a>@HFUT,  <a href="https://lanhuafengyue.github.io/">Dr. Yuxing Li</a>@BNU, <a href="https://sice.hainanu.edu.cn/info/1141/7463.htm"> Assoc. Prof.Gaosheng Liu</a>@HNU, <a href=https://scie-ie.shu.edu.cn/info/1078/1184.htm"> Assoc. Prof.Xinpeng Huang</a>@SHU,  <a href="https://scholar.google.com/citations?hl=zh-CN&user=fAIEYrEAAAAJ&view_op=list_works&sortby=pubdate">Assoc. Prof. Mengyao Li</a>@DHU.
+- <a href="https://ieeexplore.ieee.org/author/37088955165">Dr. Zeyu Xiao</a>@NUS,  <a href="https://yileichen96.github.io/">Dr. Yilei Chen</a>@UTS, <a href="https://scholar.google.co.jp/citations?hl=zh-CN&user=n_swONIAAAAJ&view_op=list_works">Dr. Yuankun Xu</a>@HFUT,  <a href="https://lanhuafengyue.github.io/">Dr. Yuxing Li</a>@BNU, <a href="https://sice.hainanu.edu.cn/info/1141/7463.htm"> Assoc. Prof.Gaosheng Liu</a>@HNU, <a href="https://scie-ie.shu.edu.cn/info/1078/1184.htm"> Assoc. Prof.Xinpeng Huang</a>@SHU,  <a href="https://scholar.google.com/citations?hl=zh-CN&user=fAIEYrEAAAAJ&view_op=list_works&sortby=pubdate">Assoc. Prof. Mengyao Li</a>@DHU.
 
 
 
