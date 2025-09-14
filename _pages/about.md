@@ -24,7 +24,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉 One paper is accepted by TIP 2025.
-
+- *2025.05*: &nbsp;🎉 One cooperated paper is accepted by Opt. Lett 2025. Congrats to fengyin!
 
 # 📝 Publications 
 
