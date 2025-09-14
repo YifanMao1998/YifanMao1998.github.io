@@ -43,18 +43,13 @@ Perception and View Reorganization,  <span style="color:PaleVioletRed;">Yifan Ma
 - **Sci. Rep 2022** [[PDF]](https://www.nature.com/articles/s41598-022-26887-4) Geometry-aware view reconstruction network for light field image compression,  Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Deyang Liu${\dagger}$
 - 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024* Anhui Provincial Outstanding Graduate
+- *2024* Anhui Provincial Computer Society Outstanding Master's Degree Thesis
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🧑‍🤝‍🧑 My Friends and Collaborators
+- <a href="https://ieeexplore.ieee.org/author/37088955165">Dr. Zeyu Xiao</a>@Nus,  <a href="https://sice.hainanu.edu.cn/info/1141/7463.htm"> Assoc. Prof.Gaosheng Liu</a>@Hainanu,  <a href="https://scholar.google.com/citations?hl=zh-CN&user=fAIEYrEAAAAJ&view_op=list_works&sortby=pubdate">Assoc. Prof. Mengyao Li</a>@DHU, [Assoc. Prof. Yulun Zhang](https://yulunzhang.com)@SJTU.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=DKP9g_vq0AiNRf_jMMQUwFmUA1PmKO18OY8AfSL_N_8&cl=080808&w=300&t=tt&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
-
