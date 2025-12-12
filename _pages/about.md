@@ -24,7 +24,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉 One paper is accepted by IEEE TVCG 2025.
+- *2025.12*: &nbsp;🎉 One paper is accepted by IEEE TVCG 2025.
 - *2025.09*: &nbsp;🎉 One paper is accepted by IEEE TIP 2025.
 - *2025.09*: &nbsp;🎉 One cooperated paper is accepted by IEEE TCSVT 2025. Congrats to Shizheng!
 - *2025.08*: &nbsp;🎉 One cooperated paper is accepted by IEEE ICUS 2025. Congrats to Shizheng!
