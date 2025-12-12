@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 One paper is accepted by IEEE TVCG 2025.
 - *2025.09*: &nbsp;🎉 One paper is accepted by IEEE TIP 2025.
 - *2025.09*: &nbsp;🎉 One cooperated paper is accepted by IEEE TCSVT 2025. Congrats to Shizheng!
 - *2025.08*: &nbsp;🎉 One cooperated paper is accepted by IEEE ICUS 2025. Congrats to Shizheng!
@@ -31,6 +32,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 # 📝 Publications 
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
+- **IEEE TVCG 2025** Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution,  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
 - **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields,  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
 - **IEEE TCSVT 2025** [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution, Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
 - **IEEE ICUS 2025**  Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration,  Yuan Shi$^{\*}$, Shizheng Li$^{\*}$, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Feng Wu, Zeyu Xiao, Deyang Liu${\dagger}$
