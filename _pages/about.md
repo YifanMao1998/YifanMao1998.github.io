@@ -35,17 +35,37 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE TVCG 2025** Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
-- **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields,  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
-- **IEEE TCSVT 2025** [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution, Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
-- **IEEE ICUS 2025**  Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration,  Yuan Shi$^{\*}$, Shizheng Li$^{\*}$, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Feng Wu, Zeyu Xiao, Deyang Liu${\dagger}$
-- **Opt. Lett 2025** [[PDF]](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-10-3473) Structure-preserving light field reconstruction via spatial and implicit angular cues, Fengyin Cao, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Ping An${\dagger} $, Chao Yang
-- **IEEE TCI 2024** [[PDF]](https://ieeexplore.ieee.org/document/10786285)Light Field Angular Super-Resolution Network Based on Convolutional Transformer and Deep Deblurring, Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao</span>, Yifan Zuo, Ping An, Yuming Fang${\dagger}$
-- **PRCV 2024 Oral** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-8508-7_24) Multiview Light Field Angular Super-Resolution Based on View Alignment and Frequency Attention,  Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao</span>, Yifan Zuo, Ping An, Yuming Fang${\dagger}$
-- **IEEE ICME 2023** [[PDF]](https://ieeexplore.ieee.org/document/10219689) Learning a Multilevel Cooperative View Reconstruction Network for Light Field Angular Super-Resolution,  Deyang Liu, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Xiaofei Zhou, Ping An, Yuming Fang${\dagger}$
-- **SPIC 2023** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596523001133) Optical flow-assisted multi-level fusion network for Light Field image angular reconstruction,  Deyang Liu, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yan Huang, Liqun Cao, Yuanzhi Wang, Yuming Fang${\dagger}$
+- **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields
+  <br>
+  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
+- **IEEE TCSVT 2025** [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
+  <br>
+  Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
+- **IEEE ICUS 2025**  Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration
+  <br>
+  Yuan Shi$^{\*}$, Shizheng Li$^{\*}$, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Feng Wu, Zeyu Xiao, Deyang Liu${\dagger}$
+- **Opt. Lett 2025** [[PDF]](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-10-3473) Structure-preserving light field reconstruction via spatial and implicit angular cues
+  <br>
+  Fengyin Cao, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Ping An${\dagger} $, Chao Yang
+- **IEEE TCI 2024** [[PDF]](https://ieeexplore.ieee.org/document/10786285)Light Field Angular Super-Resolution Network Based on Convolutional Transformer and Deep Deblurring
+  <br>
+  Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao</span>, Yifan Zuo, Ping An, Yuming Fang${\dagger}$
+- **PRCV 2024 Oral** [[PDF]](https://link.springer.com/chapter/10.1007/978-981-97-8508-7_24) Multiview Light Field Angular Super-Resolution Based on View Alignment and Frequency Attention
+  <br>
+  Deyang Liu , <span style="color:PaleVioletRed;">Yifan Mao</span>, Yifan Zuo, Ping An, Yuming Fang${\dagger}$
+- **IEEE ICME 2023** [[PDF]](https://ieeexplore.ieee.org/document/10219689) Learning a Multilevel Cooperative View Reconstruction Network for Light Field Angular Super-Resolution
+  <br>
+  Deyang Liu, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Xiaofei Zhou, Ping An, Yuming Fang${\dagger}$
+- **SPIC 2023** [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596523001133) Optical flow-assisted multi-level fusion network for Light Field image angular reconstruction
+  <br>
+  Deyang Liu, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yan Huang, Liqun Cao, Yuanzhi Wang, Yuming Fang${\dagger}$
 - **IJACSA 2023** [[PDF]](https://thesai.org/Publications/ViewPaper?Volume=14&Issue=5&Code=IJACSA&SerialNo=111) Light Field Spatial Super-resolution via Multi-level
-Perception and View Reorganization,  <span style="color:PaleVioletRed;">Yifan Mao</span>, Zaidong Tong, Xin Zheng, Xiaofei Zhou, Youzhi Zhang, Deyang Liu${\dagger}$
-- **Sci. Rep 2022** [[PDF]](https://www.nature.com/articles/s41598-022-26887-4) Geometry-aware view reconstruction network for light field image compression,  Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Deyang Liu${\dagger}$
+Perception and View Reorganization
+  <br>
+  <span style="color:PaleVioletRed;">Yifan Mao</span>, Zaidong Tong, Xin Zheng, Xiaofei Zhou, Youzhi Zhang, Deyang Liu${\dagger}$
+- **Sci. Rep 2022** [[PDF]](https://www.nature.com/articles/s41598-022-26887-4) Geometry-aware view reconstruction network for light field image compression
+  <br>
+  Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Deyang Liu${\dagger}$
 
 # 🎖 Honors and Awards
 - *2024* Anhui Provincial Outstanding Graduate
