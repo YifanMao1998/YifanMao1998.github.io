@@ -33,7 +33,6 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 
 - **IEEE TVCG 2025** Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
-  
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
 - **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields,  <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
 - **IEEE TCSVT 2025** [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution, Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
