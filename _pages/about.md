@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 One paper is accepted by Qomex 2026. Congrats to Haonan!
 - *2025.12*: &nbsp;🎉 One paper is accepted by IEEE TVCG 2025.
 - *2025.09*: &nbsp;🎉 One paper is accepted by IEEE TIP 2025.
 - *2025.09*: &nbsp;🎉 One cooperated paper is accepted by IEEE TCSVT 2025. Congrats to Shizheng!
@@ -31,7 +32,9 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 # 📝 Publications 
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
-
+- **IEEE Qomex 2026** A Subjective Quality Database for Human-AI Co-Created Images
+  <br>
+  <span style="color:PaleVioletRed;">Xiangxu Yu, Haonan Chen, Tong Jiyan, Yifan Mao</span>${\dagger}$, Chao Yang, Xinpeng Huang, Anping
 - **IEEE TVCG 2025** [[PDF]](https://ieeexplore.ieee.org/document/11303164) Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
@@ -41,7 +44,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE TCSVT 2025** [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
   <br>
   Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
-- **IEEE ICUS 2025**  Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration
+- **IEEE ICUS 2025** [[PDF]](https://ieeexplore.ieee.org/document/11295729) Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration
   <br>
   Yuan Shi$^{\*}$, Shizheng Li$^{\*}$, <span style="color:PaleVioletRed;">Yifan Mao</span>,  Feng Wu, Zeyu Xiao, Deyang Liu${\dagger}$
 - **Opt. Lett 2025** [[PDF]](https://opg.optica.org/ol/abstract.cfm?uri=ol-50-10-3473) Structure-preserving light field reconstruction via spatial and implicit angular cues
