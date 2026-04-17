@@ -34,7 +34,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE Qomex 2026** A Subjective Quality Database for Human-AI Co-Created Images
   <br>
-  Xiangxu Yu, Haonan Chen, Jinyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Chao Yang, Xinpeng Huang, An ping
+  Xiangxu Yu, Haonan Chen, Jiyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Chao Yang, Xinpeng Huang, An ping
 - **IEEE TVCG 2025** [[PDF]](https://ieeexplore.ieee.org/document/11303164) Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
