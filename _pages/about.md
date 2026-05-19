@@ -24,6 +24,8 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉 One paper is accepted by Qomex 2026. Congrats to Zichen!
+- *2026.03*: &nbsp;🎉 One paper is accepted by Qomex 2026. Congrats to Xinran!
 - *2026.03*: &nbsp;🎉 One paper is accepted by Qomex 2026. Congrats to Haonan!
 - *2025.12*: &nbsp;🎉 One paper is accepted by IEEE TVCG 2025.
 - *2025.09*: &nbsp;🎉 One paper is accepted by IEEE TIP 2025.
