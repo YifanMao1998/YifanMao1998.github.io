@@ -39,7 +39,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
   Xiangxu Yu, Zichen Ren, Xinran Gu, Shaoxuan Ding, Hao Shen, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, An ping
 - **IEEE Qomex 2026** ShotIq: Semantic-Sensitive Blind Image Quality Assessment for Enhanced Low-Light Images
   <br>
-  Xiangxu Yu, Xinran Gu, Shaoxuan Ding, Zichen Ren, Yanji Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>
+  Xiangxu Yu, Xinran Gu, Shaoxuan Ding, Zichen Ren, Jiyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>
 - **IEEE Qomex 2026** A Subjective Quality Database for Human-AI Co-Created Images
   <br>
   Xiangxu Yu, Haonan Chen, Jiyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Chao Yang, Xinpeng Huang, An ping
