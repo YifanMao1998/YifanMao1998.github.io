@@ -24,7 +24,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
-- *2026.06*:  🎉 One paper **Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution** has been newly selected as <span style="color:red; font-style:italic;">ESI Hot Paper</span>. Congratulations to ShiZheng!
+- *2026.06*:  🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Hot Paper</span>. Congratulations to ShiZheng!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Zichen!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Xinran!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Haonan!
