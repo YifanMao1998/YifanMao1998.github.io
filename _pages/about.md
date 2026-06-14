@@ -49,7 +49,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
-- **IEEE TCSVT 2025** [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
+- **IEEE TCSVT 2025** <span style="color:red; font-style:italic;">ESI Hot Paper</span> [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
   <br>
   Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
 - **IEEE ICUS 2025** [[PDF]](https://ieeexplore.ieee.org/document/11295729) Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration
