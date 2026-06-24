@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # ☕️ About Me
 
-I am currently a second-year Ph.D. student at Shanghai University, Shanghai, China, supervised by [Prof. Ping An](https://scie-ie.shu.edu.cn/info/1078/1139.htm). Previously, I obtained my M.E. degree from Anqing Normal University, Anhui, China, under the guidance of [Prof. Deyang Liu](https://ldyorchid.github.io/liudeyang.github.io/).  I also was fortunate to work closely with  [Prof. Sanghoon Lee](https://ieeexplore.ieee.org/author/37281133200). My research interests focus on low-level tasks related to light field images. I am open to various forms of academic collaboration. Should you wish to connect or discuss potential cooperation, please feel free to reach me via email at maoyifan1998@sina.com or WeChat (ID: maoyifan1998).
+I am currently a second-year Ph.D. student at Shanghai University, Shanghai, China, supervised by [Prof. Ping An](https://scie-ie.shu.edu.cn/info/1078/1139.htm). Previously, I obtained my M.E. degree from Anqing Normal University, Anhui, China, under the guidance of [Prof. Deyang Liu](https://ldyorchid.github.io/liudeyang.github.io/).  I am also fortunate to work closely with  [Prof. Sanghoon Lee](https://ieeexplore.ieee.org/author/37281133200). My research interests focus on low-level tasks related to light field images. I am open to various forms of academic collaboration. Should you wish to connect or discuss potential cooperation, please feel free to reach me via email at maoyifan1998@sina.com or WeChat (ID: maoyifan1998).
 
 
 
@@ -29,7 +29,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Zichen!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Xinran!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Haonan!
-- *2025.12*: &nbsp;🎉 One paper is accepted by **IEEE TVCG 2025**.
+- *2025.12*: &nbsp;🎉 One paper is accepted by **IEEE TVCG 2026**.
 - *2025.09*: &nbsp;🎉 One paper is accepted by **IEEE TIP 2025**.
 - *2025.09*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TCSVT 2025**. Congrats to Shizheng!
 - *2025.08*: &nbsp;🎉 One cooperated paper is accepted by **IEEE ICUS 2025**. Congrats to Shizheng!
@@ -45,7 +45,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE Qomex 2026** A Subjective Quality Database for Human-AI Co-Created Images
   <br>
   Xiangxu Yu, Haonan Chen, Jiyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Chao Yang, Xinpeng Huang, An ping
-- **IEEE TVCG 2025** [[PDF]](https://ieeexplore.ieee.org/document/11303164) Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
+- **IEEE TVCG 2026** [[PDF]](https://ieeexplore.ieee.org/document/11303164) Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
 - **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields
