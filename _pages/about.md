@@ -38,13 +38,13 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE Qomex 2026** Blind Quality Assessment of Enhanced Low Light Images via Implicit Enhancement Gap Perception
   <br>
-  Xiangxu Yu, Zichen Ren, Xinran Gu, Shaoxuan Ding, Hao Shen, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, An ping
+  Xiangxu Yu, Zichen Ren, Xinran Gu, Shaoxuan Ding, Hao Shen, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, ping An
 - **IEEE Qomex 2026** ShotIq: Semantic-Sensitive Blind Image Quality Assessment for Enhanced Low-Light Images
   <br>
   Xiangxu Yu, Xinran Gu, Shaoxuan Ding, Zichen Ren, Jiyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>
 - **IEEE Qomex 2026** A Subjective Quality Database for Human-AI Co-Created Images
   <br>
-  Xiangxu Yu, Haonan Chen, Jiyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Chao Yang, Xinpeng Huang, An ping
+  Xiangxu Yu, Haonan Chen, Jiyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Chao Yang, Xinpeng Huang, Ping An
 - **IEEE TVCG 2026** [[PDF]](https://ieeexplore.ieee.org/document/11303164) Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
