@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TIP 2026**. Congrats to Jimin!
 - *2026.06*: &nbsp;🎉 I co-organized a [Special Session](https://www.vsip.net/special4.html) on 'AI-Driven Immersive Video and Image Processing: Techniques and Applications' at **VSIP 2026**.
 - *2026.06*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Hot Paper</span>. Congratulations to ShiZheng!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Zichen!
@@ -36,6 +37,9 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 # 📝 Publications 
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
+- **IEEE TIP 2026** Probabilistic-based Learning for Joint Light Field Image Compression and Enhancement under Low-Light Conditions
+  <br>
+  Deyang Liu, Jimin Wang, <span style="color:PaleVioletRed;">Yifan Mao</span>, Mounir Kaaniche,  Gangyi Jiang${\dagger}$, Caifeng Shan${\dagger}$
 - **IEEE Qomex 2026** Blind Quality Assessment of Enhanced Low Light Images via Implicit Enhancement Gap Perception
   <br>
   Xiangxu Yu, Zichen Ren, Xinran Gu, Shaoxuan Ding, Hao Shen, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, ping An
