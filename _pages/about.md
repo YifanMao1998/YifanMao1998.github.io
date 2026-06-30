@@ -43,7 +43,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
   Baoshuai Wang, Ping An, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yilei Chen, Xinpeng Huang, Chao Yang,  Ce Zhu
 - **IEEE TIP 2026** Probabilistic-based Learning for Joint Light Field Image Compression and Enhancement under Low-Light Conditions
   <br>
-  Deyang Liu, Jimin Wang, <span style="color:PaleVioletRed;">Yifan Mao</span>, Mounir Kaaniche,  Gangyi Jiang${\dagger}$, Caifeng Shan${\dagger}$
+  Deyang Liu, Jimin Wang, <span style="color:PaleVioletRed;">Yifan Mao</span>, Mounir Kaaniche, Xiaofei Zhou, Gangyi Jiang${\dagger}$, Caifeng Shan${\dagger}$
 - **IEEE Qomex 2026** Blind Quality Assessment of Enhanced Low Light Images via Implicit Enhancement Gap Perception
   <br>
   Xiangxu Yu, Zichen Ren, Xinran Gu, Shaoxuan Ding, Hao Shen, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, ping An
