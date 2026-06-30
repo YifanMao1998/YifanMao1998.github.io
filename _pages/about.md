@@ -40,7 +40,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE TCSVT 2026** S2-Net: Synergizing Spectral Compensation and Spatial Structure for Light Field Reconstruction
   <br>
-  Baoshuai Wang, Ping An, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yilei Chen, Xinpeng Huang, Chao Yang,  Ce Zhu
+  Baoshuai Wang, Ping An${\dagger}$, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yilei Chen, Xinpeng Huang, Chao Yang,  Ce Zhu
 - **IEEE TIP 2026** Probabilistic-based Learning for Joint Light Field Image Compression and Enhancement under Low-Light Conditions
   <br>
   Deyang Liu, Jimin Wang, <span style="color:PaleVioletRed;">Yifan Mao</span>, Mounir Kaaniche, Xiaofei Zhou, Gangyi Jiang${\dagger}$, Caifeng Shan${\dagger}$
