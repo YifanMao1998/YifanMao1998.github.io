@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TCSVT 2026**. Congrats to Baoshuai!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TIP 2026**. Congrats to Jimin!
 - *2026.06*: &nbsp;🎉 I co-organized a [Special Session](https://www.vsip.net/special4.html) on 'AI-Driven Immersive Video and Image Processing: Techniques and Applications' at **VSIP 2026**.
 - *2026.06*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Hot Paper</span>. Congratulations to ShiZheng!
@@ -37,6 +38,9 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 # 📝 Publications 
 _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
+- **IEEE TCSVT 2026** Probabilistic-based Learning for Joint Light Field Image Compression and Enhancement under Low-Light Conditions
+  <br>
+  Baoshuai Wang, Ping An, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yilei Chen, Xinpeng Huang, ChaoYang,  Ce Zhu
 - **IEEE TIP 2026** Probabilistic-based Learning for Joint Light Field Image Compression and Enhancement under Low-Light Conditions
   <br>
   Deyang Liu, Jimin Wang, <span style="color:PaleVioletRed;">Yifan Mao</span>, Mounir Kaaniche,  Gangyi Jiang${\dagger}$, Caifeng Shan${\dagger}$
