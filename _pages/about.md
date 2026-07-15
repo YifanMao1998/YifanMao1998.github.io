@@ -24,6 +24,7 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congratulations to ShiZheng!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TCSVT 2026**. Congrats to Baoshuai!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TIP 2026**. Congrats to Jimin!
 - *2026.06*: &nbsp;🎉 I co-organized a [Special Session](https://www.vsip.net/special4.html) on 'AI-Driven Immersive Video and Image Processing: Techniques and Applications' at **VSIP 2026**.
@@ -59,7 +60,7 @@ _${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
-- **IEEE TCSVT 2025** <span style="color:red; font-style:italic;">ESI Hot Paper</span> [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
+- **IEEE TCSVT 2025** <span style="color:red; font-style:italic;">ESI Hot Paper/Highly Cited Papers</span> [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
   <br>
   Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
 - **IEEE ICUS 2025** [[PDF]](https://ieeexplore.ieee.org/document/11295729) Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration
