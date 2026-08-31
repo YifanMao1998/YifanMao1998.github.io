@@ -18,12 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # ☕️ About Me
 
-I am currently a second-year Ph.D. student at Shanghai University, Shanghai, China, supervised by [Prof. Ping An](https://scie-ie.shu.edu.cn/info/1078/1139.htm). Previously, I obtained my M.E. degree from Anqing Normal University, Anhui, China, under the guidance of [Prof. Deyang Liu](https://ldyorchid.github.io/liudeyang.github.io/).  I am also fortunate to work closely with  [Prof. Sanghoon Lee](https://ieeexplore.ieee.org/author/37281133200). My research interests focus on low-level tasks related to light field images. I am open to various forms of academic collaboration. Should you wish to connect or discuss potential cooperation, please feel free to reach me via email at maoyifan1998@sina.com or WeChat (ID: maoyifan1998).
+I am currently a third-year Ph.D. student at Shanghai University, Shanghai, China, supervised by [Prof. Ping An](https://scie-ie.shu.edu.cn/info/1078/1139.htm). Previously, I obtained my M.E. degree from Anqing Normal University, Anhui, China, under the guidance of [Prof. Deyang Liu](https://ldyorchid.github.io/liudeyang.github.io/).  I am also fortunate to work closely with  [Prof. Sanghoon Lee](https://ieeexplore.ieee.org/author/37281133200). My research interests focus on low-level tasks related to light field images. I am open to various forms of academic collaboration. Should you wish to connect or discuss potential cooperation, please feel free to reach me via email at maoyifan1998@sina.com or WeChat (ID: maoyifan1998).
 
 
 
 
 # 🔥 News
+- *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**. 
 - *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congratulations to ShiZheng!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TCSVT 2026**. Congrats to Baoshuai!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TIP 2026**. Congrats to Jimin!
@@ -38,7 +39,10 @@ I am currently a second-year Ph.D. student at Shanghai University, Shanghai, Chi
 - *2025.08*: &nbsp;🎉 One cooperated paper is accepted by **IEEE ICUS 2025**. Congrats to Shizheng!
 
 # 📝 Publications 
-_${\*}$ Equal contribution, ${\dagger}$ Corresponding author_
+_${*}$ Equal contribution, ${\dagger}$ Corresponding author_
+- **IEEE TCSVT 2026** State‑Aware Dependency Reasoning for Light Field Angular Super‑Resolution
+<br>
+  <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Ce Zhu
 - **IEEE TCSVT 2026** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11593821) S2-Net: Synergizing Spectral Compensation and Spatial Structure for Light Field Reconstruction
   <br>
   Baoshuai Wang, Ping An${\dagger}$, <span style="color:PaleVioletRed;">Yifan Mao</span>, Yilei Chen, Xinpeng Huang, Chao Yang,  Ce Zhu
