@@ -40,7 +40,7 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 # 📝 Publications 
 _${*}$ Equal contribution, ${\dagger}$ Corresponding author_
-- **IEEE TCSVT 2026** State‑Aware Dependency Reasoning for Light Field Angular Super‑Resolution
+- **IEEE TCSVT 2026** [[PDF]](https://ieeexplore.ieee.org/document/11683234) State‑Aware Dependency Reasoning for Light Field Angular Super‑Resolution
 <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Ce Zhu
 - **IEEE TCSVT 2026** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11593821) S2-Net: Synergizing Spectral Compensation and Spatial Structure for Light Field Reconstruction
