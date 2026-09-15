@@ -24,13 +24,13 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 One paper is accepted by **IEEE VCIP 2026**.
+- *2026.09*: &nbsp;🎉 One paper is accepted by **IEEE VCIP 2026**. Congratulations to   Zhehao!
 - *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**. 
-- *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congratulations to ShiZheng!
+- *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congratulations to Shizheng!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TCSVT 2026**. Congrats to Baoshuai!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TIP 2026**. Congrats to Jimin!
 - *2026.06*: &nbsp;🎉 I co-organized a [Special Session](https://www.vsip.net/special4.html) on 'AI-Driven Immersive Video and Image Processing: Techniques and Applications' at **VSIP 2026**.
-- *2026.06*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Hot Paper</span>. Congratulations to ShiZheng!
+- *2026.06*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Hot Paper</span>. Congratulations to Shizheng!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Zichen!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Xinran!
 - *2026.03*: &nbsp;🎉 One paper is accepted by **Qomex 2026**. Congrats to Haonan!
