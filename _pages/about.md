@@ -24,7 +24,7 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 One paper is accepted by **IEEE VCIP 2026**. Congratulations to   Zhehao!
+- *2026.09*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VCIP 2026**. Congratulations to   Zhehao!
 - *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**. 
 - *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congratulations to Shizheng!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TCSVT 2026**. Congrats to Baoshuai!
