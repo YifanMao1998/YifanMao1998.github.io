@@ -24,6 +24,7 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 One paper is accepted by **IEEE VCIP 2026**.
 - *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**. 
 - *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congratulations to ShiZheng!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TCSVT 2026**. Congrats to Baoshuai!
@@ -40,6 +41,9 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 # 📝 Publications 
 _${*}$ Equal contribution, ${\dagger}$ Corresponding author_
+- **IEEE VCIP 2026**  RealDynLFV: A Large-Parallax Benchmark for Real-World Dynamic Light Field Video
+<br>
+  Zhehao Han, Yingfeng Zhang, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xianliang Wu, Xinpeng Huang${\dagger}$, Chao Yang, Ping An
 - **IEEE TCSVT 2026** [[PDF]](https://ieeexplore.ieee.org/document/11683234) State‑Aware Dependency Reasoning for Light Field Angular Super‑Resolution
 <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Ce Zhu
