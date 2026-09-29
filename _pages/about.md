@@ -24,6 +24,7 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 One paper is accepted by **TMM 2026**. Congrats to Hao Wu!
 - *2026.09*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VCIP 2026**. Congratulations to   Zhehao!
 - *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**. 
 - *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congratulations to Shizheng!
@@ -41,6 +42,9 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 # 📝 Publications 
 _${*}$ Equal contribution, ${\dagger}$ Corresponding author_
+- **IEEE TMM 2026**  Interaction-Selective Modeling for Low-Light Light Field Enhancement
+<br>
+  Deyang Liu, Hao Wu, <span style="color:PaleVioletRed;">Yifan Mao</span>${\dagger}$, Xiaofei Zhou, Hongbin Zha, Caifeng Shan and Yuming Fang${\dagger}$
 - **IEEE VCIP 2026**  RealDynLFV: A Large-Parallax Benchmark for Real-World Dynamic Light Field Video
 <br>
   Zhehao Han, Yinfeng Zhang, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xianliang Wu, Xinpeng Huang${\dagger}$, Chao Yang, Ping An
