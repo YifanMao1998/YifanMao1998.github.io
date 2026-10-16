@@ -46,10 +46,10 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 _${*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE VSIP 2026** Learning Separation-Dependent Angular Responses for No-Reference Light Field Image Quality Assessment
 <br>
-  <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Yanan Xia, Xinpeng Huang, Yilei Chen, Deyang Liu and Ping An${\dagger}$
+  <span style="color:PaleVioletRed;">Yifan Mao</span>, Yanan Xia, Xinpeng Huang, Yilei Chen, Deyang Liu and Ping An${\dagger}$
 - **IEEE VSIP 2026** PRISM: Projection-Guided Representation Interface Supervision and Modulation for Multi-View 3D Object Detection
 <br>
-  Chang Mei, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Wenbo Zhang, Baojun Zhou, Yilei Chen and Ping An${\dagger}$
+  Chang Mei, <span style="color:PaleVioletRed;">Yifan Mao</span>, Wenbo Zhang, Baojun Zhou, Yilei Chen and Ping An${\dagger}$
 - **IEEE TMM 2026**  Interaction-Selective Modeling for Low-Light Light Field Enhancement
 <br>
   Deyang Liu, Hao Wu, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Xiaofei Zhou, Hongbin Zha, Caifeng Shan and Yuming Fang${\dagger}$
