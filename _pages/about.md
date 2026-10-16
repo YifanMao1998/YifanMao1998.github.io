@@ -24,6 +24,8 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉 One paper is accepted by **IEEE VSIP 2026**. 
+- *2026.10*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VSIP 2026**. Congrats to   ChangMei!
 - *2026.09*: &nbsp;🎉 One paper is accepted by **TMM 2026**. Congrats to Hao Wu!
 - *2026.09*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VCIP 2026**. Congrats to   Zhehao!
 - *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**. 
