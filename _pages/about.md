@@ -24,7 +24,7 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
-- *2026.10*: &nbsp;🎉 One paper is accepted by **IEEE VSIP 2026**. 
+- *2026.10*: &nbsp;🎉 Two papers are accepted by **IEEE VSIP 2026**. 
 - *2026.10*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VSIP 2026**. Congrats to   ChangMei!
 - *2026.09*: &nbsp;🎉 One paper is accepted by **TMM 2026**. Congrats to Hao Wu!
 - *2026.09*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VCIP 2026**. Congrats to   Zhehao!
@@ -44,6 +44,9 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 # 📝 Publications 
 _${*}$ Equal contribution, ${\dagger}$ Corresponding author_
+- **IEEE VSIP 2026** Context-Adaptive Cross-Representation Network for Low-Light Light Field Enhancement
+<br>
+Hao Wu, Shizheng Li$^{*}$, Yuan Shi, Jiapei Zhao, <span style="color:PaleVioletRed;">Yifan Mao</span>$^{\dagger}$ and Deyang Liu$^{\dagger}$
 - **IEEE VSIP 2026** Learning Separation-Dependent Angular Responses for No-Reference Light Field Image Quality Assessment
 <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Yanan Xia, Xinpeng Huang, Yilei Chen, Deyang Liu and Ping An${\dagger}$
