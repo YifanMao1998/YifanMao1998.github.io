@@ -113,7 +113,7 @@ Perception and View Reorganization
   Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Deyang Liu${\dagger}$
 
 # 🎖 Honors and Awards
-- *2026* 中国科协青年科技人才培育工程博士生专项计划
+- *2026* 中国科协青年科技人才培育工程博士生专项计划 (Young Science and Technology Talent Training Program for Doctoral Students, China Association for Science and Technology)
 - *2024* Anhui Provincial Outstanding Graduate
 - *2024* Anhui Provincial Computer Society Outstanding Master's Degree Thesis
 
