@@ -24,7 +24,7 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
-- *2026.10*: 🎉 Selected for the **中国科协青年科技人才培育工程博士生专项计划**.
+- *2026.10*: 🎉 I have been selected for the China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track)  [**中国科协青年科技人才培育工程博士生专项计划**].
 - *2026.10*: &nbsp;🎉 Two papers are accepted by **IEEE VSIP 2026**.
 - *2026.10*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VSIP 2026**. Congrats to   ChangMei!
 - *2026.09*: &nbsp;🎉 One paper is accepted by **TMM 2026**. Congrats to Hao Wu!
@@ -114,7 +114,7 @@ Perception and View Reorganization
   Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Deyang Liu${\dagger}$
 
 # 🎖 Honors and Awards
-- *2026* 中国科协青年科技人才培育工程博士生专项计划 
+- *2026* China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track) [中国科协青年科技人才培育工程博士生专项计划] 
 - *2024* Anhui Provincial Outstanding Graduate
 - *2024* Anhui Provincial Computer Society Outstanding Master's Degree Thesis
 
