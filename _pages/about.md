@@ -24,12 +24,14 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
-- *2026.10*: 🎉 I have been selected for the China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track)  [**中国科协青年科技人才培育工程博士生专项计划**].
+- *2026.11*: &nbsp;🎉 Our paper received the **Best Student Paper Award** at **IEEE VSIP 2026**!
+- *2026.11*: &nbsp;🎉 I received the **Best Presentation Award** at **IEEE VSIP 2026**!
+- *2026.10*: &nbsp;🎉 I have been selected for the China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track) [**中国科协青年科技人才培育工程博士生专项计划**].
 - *2026.10*: &nbsp;🎉 Two papers are accepted by **IEEE VSIP 2026**.
-- *2026.10*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VSIP 2026**. Congrats to   ChangMei!
+- *2026.10*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VSIP 2026**. Congrats to ChangMei!
 - *2026.09*: &nbsp;🎉 One paper is accepted by **TMM 2026**. Congrats to Hao Wu!
-- *2026.09*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VCIP 2026**. Congrats to   Zhehao!
-- *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**. 
+- *2026.09*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VCIP 2026**. Congrats to Zhehao!
+- *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**.
 - *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congrats to Shizheng!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TCSVT 2026**. Congrats to Baoshuai!
 - *2026.06*: &nbsp;🎉 One cooperated paper is accepted by **IEEE TIP 2026**. Congrats to Jimin!
@@ -114,10 +116,11 @@ Perception and View Reorganization
   Youzhi Zhang, Lifei Wan, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Deyang Liu${\dagger}$
 
 # 🎖 Honors and Awards
-- *2026* China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track) [中国科协青年科技人才培育工程博士生专项计划] 
+- *2026* Best Student Paper Award, 8th International Conference on Video, Signal and Image Processing (VSIP 2026)
+- *2026* Best Presentation Award, 8th International Conference on Video, Signal and Image Processing (VSIP 2026)
+- *2026* China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track) [中国科协青年科技人才培育工程博士生专项计划]
 - *2024* Anhui Provincial Outstanding Graduate
 - *2024* Anhui Provincial Computer Society Outstanding Master's Degree Thesis
-
 
 # 🧑‍🤝‍🧑 My Friends and Collaborators
 - <a href="https://scie-ie.shu.edu.cn/info/1078/1184.htm"> Assoc. Prof.Xinpeng Huang</a>@SHU, <a href="https://sice.hainanu.edu.cn/info/1141/7463.htm"> Assoc. Prof.Gaosheng Liu</a>@HNU,  <a href="https://siis.dhu.edu.cn/2026/0414/c24720a374790/page.htm">Assoc. Prof. Mengyao Li</a>@DHU, <a href="https://scie-ie.shu.edu.cn/info/1078/1225.htm"> Assoc. Prof.Xiangxu Yu</a>@SHU,<a href="https://ieeexplore.ieee.org/author/37088955165">Dr. Zeyu Xiao</a>@NUS, <a href="https://pgsmall.github.io/index.html">Dr. Gensheng Pei</a>@SKKU, <a href="https://yileichen96.github.io/">Dr. Yilei Chen</a>@UTS, <a href="https://scholar.google.co.jp/citations?hl=zh-CN&user=n_swONIAAAAJ&view_op=list_works">Dr. Yuankun Xu</a>@HFUT,  <a href="https://lanhuafengyue.github.io/">Dr. Yuxing Li</a>@BNU.
