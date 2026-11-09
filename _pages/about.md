@@ -49,7 +49,6 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 # 📝 Publications 
 _${*}$ Equal contribution, ${\dagger}$ Corresponding author_
 - **IEEE OJID** Heterogeneity-Aware Multi-Cue Quality Aggregation for Blind Omnidirectional Image Quality Assessment  
-<br>
   Xiangxu Yu, Ke Hu, Zixuan Zhang, Hexuan Liu, Yunping Dai, Puan Wang, Feihong Xu, <span style="color:PaleVioletRed;">Yifan Mao$^{*}$</span>
 - **IEEE VSIP 2026** Context-Adaptive Cross-Representation Network for Low-Light Light Field Enhancement
 <br>
