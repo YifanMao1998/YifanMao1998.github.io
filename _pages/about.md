@@ -24,13 +24,13 @@ I am currently a third-year Ph.D. student at Shanghai University, Shanghai, Chin
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉 One paper is accepted by **OJID 2026**. Congrats to Ke Hu!
+- *2026.09*: &nbsp;🎉 One paper is accepted by **IEEE OJID 2026**. Congrats to Ke Hu!
 - *2026.11*: &nbsp;🎉 Our paper received the **Best Student Paper Award** at **IEEE VSIP 2026**!
 - *2026.11*: &nbsp;🎉 I received the **Best Presentation Award** at **IEEE VSIP 2026**!
 - *2026.10*: &nbsp;🎉 I have been selected for the China Association for Science and Technology’s special program for the cultivation of young scientific and technological talent (Ph.D. student track) [**中国科协青年科技人才培育工程博士生专项计划**].
 - *2026.10*: &nbsp;🎉 Two papers are accepted by **IEEE VSIP 2026**.
 - *2026.10*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VSIP 2026**. Congrats to Chang Mei!
-- *2026.09*: &nbsp;🎉 One paper is accepted by **TMM 2026**. Congrats to Hao Wu!
+- *2026.09*: &nbsp;🎉 One paper is accepted by **IEEE TMM 2026**. Congrats to Hao Wu!
 - *2026.09*: &nbsp;🎉 One cooperated paper is accepted by **IEEE VCIP 2026**. Congrats to Zhehao!
 - *2026.08*: &nbsp;🎉 One paper is accepted by **IEEE TCSVT 2026**.
 - *2026.07*: &nbsp;🎉 One paper IDNet for LFSASR has been newly selected as <span style="color:red; font-style:italic;">ESI Highly Cited Papers</span>. Congrats to Shizheng!
