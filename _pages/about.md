@@ -84,13 +84,13 @@ Hao Wu, Shizheng Li$^{*}$, Yuan Shi, Jiapei Zhao,  <span style="color:PaleViolet
 - **IEEE Qomex 2026** [[PDF]](https://ieeexplore.ieee.org/abstract/document/11618335)  A Subjective Quality Database for Human-AI Co-Created Images
   <br>
   Xiangxu Yu, Haonan Chen, Jiyan Tong, <span style="color:PaleVioletRed;">Yifan Mao${\dagger}$</span>, Chao Yang, Xinpeng Huang, Ping An
-- **IEEE TVCG 2026** [[PDF]](https://ieeexplore.ieee.org/document/11303164) Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
+- **IEEE TVCG 2026** <span style="color:red; font-style:italic;">ESI Highly Cited Paper</span> [[PDF]](https://ieeexplore.ieee.org/document/11303164) Learning a Domain-Specialized Network for Light Field Spatial-Angular Super-Resolution
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao</span>, Xinpeng Huang, Yilei Chen, Deyang Liu, Ping An${\dagger}$, Sanghoon Lee
-- **IEEE TIP 2025** [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields
+- **IEEE TIP 2025** <span style="color:red; font-style:italic;">ESI Highly Cited Paper</span> [[PDF]](https://ieeexplore.ieee.org/document/11180821) Deep Sparse-to-Dense Inbetweening for Multi-View Light Fields
   <br>
   <span style="color:PaleVioletRed;">Yifan Mao$^{\*}$</span>, Zeyu Xiao$^{\*}$, Ping An${\dagger}$, Deyang Liu${\dagger}$, Caifeng Shan
-- **IEEE TCSVT 2025** <span style="color:red; font-style:italic;">ESI Hot Paper/Highly Cited Papers</span> [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
+- **IEEE TCSVT 2025** <span style="color:red; font-style:italic;">ESI Hot Paper/Highly Cited Paper</span> [[PDF]](https://ieeexplore.ieee.org/document/11175422) Learning Implicit and Detail-Enhanced Network for Light Field Image Spatial-Angular Super-Resolution
   <br>
   Deyang Liu, Shizheng Li, <span style="color:PaleVioletRed;">Yifan Mao</span>, Xiaofei Zhou, Zeyu Xiao${\dagger}$, Caifeng Shan${\dagger}$
 - **IEEE ICUS 2025** [[PDF]](https://ieeexplore.ieee.org/document/11295729) Low-Light Light Field Enhancement With Global-Local Learning and Geometric Calibration
